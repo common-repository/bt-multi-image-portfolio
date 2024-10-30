@@ -1,0 +1,39 @@
+    .field_left {
+        float:left;
+    }
+
+    .field_right {
+        margin-left:10px;
+        padding-bottom: 10px;
+    }
+
+    .clear {
+        clear:both;
+    }
+
+    #dynamic_form {
+        width:580px;
+    }
+
+    #dynamic_form input[type=text] {
+        width:300px;
+    }
+
+    #dynamic_form .field_row {
+        border:1px solid #999;
+        margin-bottom:10px;
+        padding:10px;
+    }
+
+    #dynamic_form label {
+        padding:0 6px;
+    }
+    .remove_portfolio_image{
+        margin-left:10px;
+    }
+    .project_label{
+         padding-top:5px
+    }
+    .project_bt{
+        padding-top:10px
+    }
